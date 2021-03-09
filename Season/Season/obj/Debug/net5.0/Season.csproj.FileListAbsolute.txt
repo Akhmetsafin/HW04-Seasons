@@ -1,0 +1,16 @@
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\Season.exe
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\Season.deps.json
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\Season.runtimeconfig.json
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\Season.runtimeconfig.dev.json
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\Season.dll
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\ref\Season.dll
+D:\HomeworkGB\HW04\Season\Season\bin\Debug\net5.0\Season.pdb
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.csprojAssemblyReference.cache
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.AssemblyInfoInputs.cache
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.AssemblyInfo.cs
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.csproj.CoreCompileInputs.cache
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.dll
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\ref\Season.dll
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.pdb
+D:\HomeworkGB\HW04\Season\Season\obj\Debug\net5.0\Season.genruntimeconfig.cache
